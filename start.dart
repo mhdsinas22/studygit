@@ -1,7 +1,5 @@
 void main() {
   print("Dartuuuuuuuu");
-
-  print("liluiidbwubdfwubfub");
-
   print("HEEHEHEEHEHEHEHEHEHEHEHEHE");
+  print("nammle github pokalle");
 }
